@@ -9,4 +9,8 @@ cp $SITE/*.html $DIR_NAME
 cp -r $SITE/css $DIR_NAME
 cp -r $SITE/fonts $DIR_NAME
 cp -r $SITE/js $DIR_NAME
-
+cd $DIR_NAME
+cp index.html main.htm
+echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">' > displayinfo.htm
+echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">' > listcolumn.htm
+zip -r "$(basename "$PWD").zip" ./*
