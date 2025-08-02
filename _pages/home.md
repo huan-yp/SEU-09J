@@ -13,8 +13,8 @@ slug: home
 
 {::nomarkdown}
 <div class="badges-container">
-    <img src="images/homepic/SEU.png" alt="东南大学校徽" style="width: 10em;">
-    <img src="images/homepic/09J.png" alt="拔尖基地徽标" style="width: 12em;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/SEU.png" alt="东南大学校徽" style="width: 10em;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/homepic/09J.png" alt="拔尖基地徽标" style="width: 12em;">
 </div>
 {:/nomarkdown}
 
