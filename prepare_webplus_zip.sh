@@ -1,7 +1,7 @@
 #!/bin/bash
 DATE_HASH=$(git log -1 --pretty=format:"%ad_%h" --date=short | tr -d '-')
-DIR_NAME=wp_$DATE_HASH
-rm -rf wp_*
+DIR_NAME=_wp_$DATE_HASH
+rm -rf _wp_*
 mkdir $DIR_NAME
 SITE=_site
 cp $SITE/favicon.ico $DIR_NAME
