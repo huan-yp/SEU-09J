@@ -12,6 +12,7 @@ cp -r $SITE/js $DIR_NAME
 cd $DIR_NAME
 echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">' > displayinfo.htm
 echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">' > listcolumn.htm
-find . -name "*.html" -exec sed -i '' 's/localhost:4000/chpu437.github.io/g' {} +
+find . -name "*.html" -exec sed -i.bak 's/localhost:4000/chpu437.github.io/g' {} +
+find . -name "*.html.bak" -exec rm {} +
 cp index.html main.htm
 zip -r "$(basename "$PWD").zip" ./*
