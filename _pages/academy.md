@@ -26,8 +26,8 @@ slug: academy
 开放共享空间是计算机科学拔尖书院的门厅与交流区，集展示、接待、讨论、休闲于一体。整体设计明亮舒适，营造开放、合作的学习氛围，是计算机科学拔尖学子启程与碰撞思想的起点。
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/studyspace1.jpg" alt="图1" style="width: 400px; height: 300px; object-fit: cover;" />  <!-- 该链接需要修改 -->
-  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/studyspace2.jpg" alt="图2" style="width: 400px; height: 300px; object-fit: cover;" />  <!-- 该链接需要修改 -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/gate1.jpg" alt="图1" style="width: 400px; height: 300px; object-fit: cover;" />  <!-- 该链接需要修改 -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/gate2.jpg" alt="图2" style="width: 400px; height: 300px; object-fit: cover;" />  <!-- 该链接需要修改 -->
 </div> 
 
 #### 创新实践空间229
