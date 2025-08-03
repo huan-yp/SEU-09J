@@ -32,6 +32,11 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+exclude:
+  - Docs/
+  - README.md
+  - Usage.md
+  - prepare_webplus_zip.sh
 
 
 # Markdown Processing
