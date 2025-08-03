@@ -12,6 +12,7 @@
   brief_interest: 弱监督学习、软件开发
   link: https://github.com/huan-yp
   biography:
+    - "NOI2023 银牌"
     - 热爱开源事业的全栈技术老登：<a href="https://github.com/huan-yp">github.com/huan-yp</a>
 
 - name: 周子涵
@@ -28,6 +29,7 @@
   grade: 2024级
   brief_interest: 计算机科学
   biography:
+    - NOIP2022 NOIP2021 省级一等奖
     - 2024级计算机拔尖班学生
 
 - name: 杜鑫研
@@ -36,4 +38,15 @@
   grade: 2024级
   brief_interest: 算法竞赛
   biography:
-    - 曾经的oier，半退役状态。
+    - NOI2023 银牌
+    - 现校CPC选手
+
+- name: 靳赫涛
+  id: jinhetao
+  photo: jinhetao.jpg
+  grade: 2024级
+  brief_interest: 算法相关
+  biography:
+    - NOI2023 银牌
+
+
