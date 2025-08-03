@@ -14,7 +14,7 @@ slug: subscribe
 扫描下方二维码进行预约申请，请提供姓名、学号/工号、联系方式等信息。预约申请提交后，由书院管理人员进行审核。审核通过可以按照预约的时间使用。对于预约成功但无故不使用造成资源浪费的，将记违约。累计违约达到一定次数后，将限制预约权限。
 
 <p style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/academy/1280X1280.png" alt="预约二维码" style="width: 200px; height: auto;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/1280X1280.png" alt="预约二维码" style="width: 200px; height: auto;" />
   <br />
   <span style="display: inline-block; margin-top: 8px;">预约网址：http://10.201.0.222:8080/#/stu/book</span>
 </p>
@@ -28,10 +28,10 @@ slug: subscribe
 
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="{{ site.baseurl }}/images/academy/1.png" alt="图片1" style="width: 200px; height: auto;">
-  <img src="{{ site.baseurl }}/images/academy/2.png" alt="图片2" style="width: 200px; height: auto;">
-  <img src="{{ site.baseurl }}/images/academy/3.png" alt="图片3" style="width: 200px; height: auto;">
-  <img src="{{ site.baseurl }}/images/academy/4.png" alt="图片4" style="width: 200px; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/1.png" alt="图片1" style="width: 200px; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/2.png" alt="图片2" style="width: 200px; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/3.png" alt="图片3" style="width: 200px; height: auto;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/4.png" alt="图片4" style="width: 200px; height: auto;">
 </div>
 
 
@@ -42,7 +42,7 @@ slug: subscribe
 如果你在座位预约的过程中，遇到了问题，可以扫描下方二维码向拔尖书院反馈。
 
 <p style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/academy/Fankui.png" alt="预约二维码" style="width: 200px; height: auto;" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/academy/Fankui.png" alt="预约二维码" style="width: 200px; height: auto;" />
   <br />
   <span style="display: inline-block; margin-top: 8px;">反馈问卷：https://www.wjx.cn/vm/tUsyS4F.aspx</span>
 </p>
