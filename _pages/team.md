@@ -221,7 +221,7 @@ slug: team
 
 <div class="col-sm-6 clearfix">
   <img class="img-responsive img-rounded" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" width="25%" style="float: left; aspect-ratio: 1/1; object-fit: cover;" />
-  <h4><a href="{{ site.url }}{{ site.baseurl }}/admission" target="_blank">{{ member.name }} </a></h4>
+  <h4><a href="{{ site.url }}{{ site.baseurl }}/admission.html" target="_blank">{{ member.name }} </a></h4>
   年级: {{ member.grade }}
   <br>兴趣: {{ member.brief_interest }}
    {% if member.id != "placeholder" %}
