@@ -1,7 +1,7 @@
 ---
 title: "招生问答"
 layout: textlay
-excerpt: "Welcome to the SEU NetSI Group! We conducts research in the area of Internet of Things and Swarm Intelligence. Our goal is to provide theoretically sound analysis as well as build practically working systems."
+excerpt: "东南大学计算机科学拔尖学生培养基地招生问答。包含最新公告和常见问题。" 
 sitemap: false
 permalink: /admission
 slug: admission

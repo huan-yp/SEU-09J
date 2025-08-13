@@ -1,7 +1,7 @@
 ---
 title: "基地成员"
 layout: gridlay
-excerpt: "Welcome to the SEU NetSI Group! We conducts research in the area of Internet of Things and Swarm Intelligence. Our goal is to provide theoretically sound analysis as well as build practically working systems."
+excerpt: "东南大学计算机科学拔尖学生培养基地成员介绍，包括教师和各年级学生。拔尖基地期待你的加入！"
 sitemap: false
 permalink: /team
 slug: team
