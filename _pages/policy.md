@@ -1,7 +1,7 @@
 ---
 title: "计算机拔尖书院空间管理"
 layout: gridlay
-excerpt: "."
+excerpt: "东南大学计算机科学拔尖学生培养基地书院空间管理方案。"
 sitemap: false
 permalink: /policy
 slug: policy

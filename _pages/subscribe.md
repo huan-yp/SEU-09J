@@ -1,7 +1,7 @@
 ---
 title: "书院预约说明"
 layout: gridlay
-excerpt: "."
+excerpt: "东南大学计算机科学拔尖学生培养基地书院预约系统说明。"
 sitemap: false
 permalink: /subscribe
 slug: subscribe
