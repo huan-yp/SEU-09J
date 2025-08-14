@@ -93,7 +93,8 @@ img {
 
 ### 13. 有往年成功入选拔尖班的学生信息吗？
 
-答：在计算机科学拔尖学生培养基地的<a href="https://cs.seu.edu.cn/bajian"><span style="color:blue;">官方网站（https://cs.seu.edu.cn/bajian）</span></a>上展示有拔尖基地一部分优秀学生的信息：<a href="https://cs.seu.edu.cn/_upload/tpl/0c/91/3217/template3217/team.html"><span style="color:blue;">基地成员</span></a>。
+答：在计算机科学拔尖学生培养基地的<a href="https://cs.seu.edu.cn/bajian"><span style="color:blue;">官方网站（https://cs.seu.edu.cn/bajian）</span></a>上的“基地成员”栏目展示有拔尖基地一部分优秀学生的信息。
+
 
 ### 14. 计算机拔尖班的学生，保研率会比普通班高吗？具体高多少？比例是多少？
 
