@@ -1,4 +1,8 @@
 ourgroup:
+  - id: 2025_07_09_tour_1
+    image: 7_9.jpeg
+    intro: "孙友宏校长参观拔尖基地书院空间"
+    date: "2025-07-09"
   - id: 2025_04_09_TopClass_Union_3Grades1
     image: 22341.jpg
     intro: "22,23,24级计科拔尖班联谊"
@@ -35,6 +39,18 @@ ourgroup:
     image: 2412.jpg
     intro: "09J241班 开展相伴活动"
     date: "2024-12-07"
+  - id: 2024_11_09_Event1
+    image: 11_9_1.jpeg
+    intro: "拔尖学生培养基地书院空间落成启用仪式"
+    date: "2024-11-09"
+  - id: 2024_11_09_Event3
+    image: 11_9_3.jpg
+    intro: "拔尖学生培养基地拔尖人才培养研讨会"
+    date: "2024-11-09"
+  - id: 2024_11_09_Event2
+    image: 11_9_2.jpeg
+    intro: "金石副校长等校领导参观拔尖基地书院空间"
+    date: "2024-11-09"
   - id: 2024_09_14_HK_Study_Tour1
     image: 22311.jpg
     intro: "22,23级拔尖班香港研学"
