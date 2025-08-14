@@ -10,10 +10,13 @@
   photo: maozhouxiang.jpg
   grade: 2024级
   brief_interest: 弱监督学习、软件开发
-  link: https://github.com/huan-yp
   biography:
     - "NOI2023 银牌"
-    - 热爱开源事业的全栈技术老登：<a href="https://github.com/huan-yp">github.com/huan-yp</a>
+    - "江苏省大学生程序设计比赛季军"
+    - "2024年ICPC & CCPC区域赛银奖"
+    - "2025年华为软件精英挑战赛江山赛区二等奖"
+    - "开源社区活跃贡献者"
+    - "热爱开源事业与全栈技术"
 
 - name: 周子涵
   id: zhouzihan
@@ -21,7 +24,8 @@
   grade: 2024级
   brief_interest: 计算机科学
   biography:
-    - 2024级计算机拔尖班学生
+    - "2024-2025年东南大学“优秀团员”"
+    - "2025寒假算法天梯大赛“编程后浪奖”"
 
 - name: 魏思远
   id: weisiyuan
@@ -30,7 +34,7 @@
   brief_interest: 计算机科学
   biography:
     - NOIP2022 NOIP2021 省级一等奖
-    - 2024级计算机拔尖班学生
+    - 2025年美国大学生数学建模比赛H奖
 
 - name: 杜鑫研
   id: duxinyan
@@ -39,6 +43,9 @@
   brief_interest: 算法竞赛
   biography:
     - NOI2023 银牌
+    - "江苏省大学生程序设计比赛季军"
+    - "2024年ICPC & CCPC区域赛银奖"
+    - "2025年华为软件精英挑战赛江山赛区二等奖"
     - 现校CPC选手
 
 - name: 靳赫涛
@@ -48,5 +55,7 @@
   brief_interest: 算法相关
   biography:
     - NOI2023 银牌
-
+    - "江苏省大学生程序设计比赛季军"
+    - "2024年ICPC & CCPC区域赛银奖"
+    - "2025年华为软件精英挑战赛江山赛区二等奖"
 
