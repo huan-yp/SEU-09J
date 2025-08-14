@@ -17,6 +17,9 @@ find . -name "*.html" -exec sed -i.bak 's/http\:\/\/localhost:4000/https\:\/\/ch
 find . -name "*.html.bak" -exec rm {} +
 find . -name "*.html" -exec sed -i.bak 's/=\"\//=\"https:\/\/chpu437.github.io\//g' {} +
 find . -name "*.html.bak" -exec rm {} +
+# 将所有指向 index.html 的链接替换为学院网站上的绝对地址
+find . -name "*.html" -exec sed -i.bak 's/href="index.html"/href="https:\/\/cs.seu.edu.cn\/bajian\/"/g' {} +
+find . -name "*.html.bak" -exec rm {} +
 
 cp index.html main.htm
 zip -r "$(basename "$PWD").zip" ./*
