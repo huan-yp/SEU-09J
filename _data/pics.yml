@@ -1,4 +1,12 @@
 ourgroup:
+  - id: 2025_08_19_tour_1
+    image: xianggang1.jpg
+    intro: "22,23,24级拔尖班香港研学"
+    date: "2025-08-19"
+  - id: 2025_08_19_tour_2
+    image: xianggang2.jpg
+    intro: "22,23,24级拔尖班香港研学"
+    date: "2025-08-19"
   - id: 2025_07_09_tour_1
     image: 7_9.jpeg
     intro: "孙友宏校长莅临拔尖基地书院空间调研"
