@@ -75,24 +75,12 @@ ourgroup:
     image: 22301.jpg
     intro: "22,23级计科拔尖班联谊"
     date: "2024-03-05"
-  - id: 2024_03_05_Excellence_Union2
-    image: 22302.jpg
-    intro: "22,23级计科拔尖班联谊"
-    date: "2024-03-05"
   - id: 2023_10_26_09J221_CNCC1
     image: 2231.jpg
     intro: "09J221班成员参加CNCC"
     date: "2023-10-26"
-  - id: 2023_10_26_09J221_CNCC2
-    image: 2232.jpg
-    intro: "09J221班成员参加CNCC"
-    date: "2023-10-26"
   - id: 2023_09_09_09J221_Turing1
     image: 2221.jpeg
-    intro: "09J221班成员参加图灵大会"
-    date: "2023-09-09"
-  - id: 2023_09_09_09J221_Turing2
-    image: 2222.jpg
     intro: "09J221班成员参加图灵大会"
     date: "2023-09-09"
   - id: 2023_06_zuotanhui
@@ -101,10 +89,6 @@ ourgroup:
     date: "2023-06"
   - id: 2022_10_19_09J221_First_Event1
     image: 2211.jpg
-    intro: "09J221班第一次团建"
-    date: "2022-10-19"
-  - id: 2022_10_19_09J221_First_Event2
-    image: 2212.jpg
     intro: "09J221班第一次团建"
     date: "2022-10-19"
   - id: 2022_09_13_09J221_First_Event1
