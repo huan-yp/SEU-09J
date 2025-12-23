@@ -1,23 +1,47 @@
 - date: 2025/11
+
   headline: "余喆诚(22级)以共同第一作者身份（共一第一）撰写的论文被CCF-A类会议AAAI接收，共同作者包括杨晨（23级）、谌涛（23级），指导老师为吕妍副教授。"
+
+  headline: "杜鑫研(24级)、毛周祥(24级)、靳赫涛(24级)获第50届ICPC国际大学生程序设计竞赛区域赛武汉站金奖，刘一鸣(23级)、何辰玮(23级)、王俊迪(23级)获银奖"
+
+- date: 2025/10
+  headline: "汪骏宇(22级)、张一林(22级)、陈乐扬(22级)获第50届ICPC国际大学生程序设计竞赛区域赛成都站铜奖"
+
+- date: 2025/10
+  headline: "周天一(25级)、颜熙(25级)、杜岩旭(25级)获第50届ICPC国际大学生程序设计竞赛区域赛西安站金奖，刘一鸣(23级)、何辰玮(23级)、王俊迪(23级)获银奖"
+
+- date: 2025/10
+  headline: "陈怡佳(24级)获全国大学生数学建模竞赛一等奖，周子涵(24级)获二等奖"
 
 - date: 2025/8
   headline: "计算机科学拔尖班香港研学之旅:<a href='https://mp.weixin.qq.com/s/O0fArWj8DAamUKE14jYBcA' target='_blank'>查看详情</a>"
 
+- date: 2025/8
+  headline: "毛周祥(24级)、李睿佳(24级)获百度之星大学生程序设计竞赛一等奖，魏子何(24级)获二等奖"
+
+- date: 2025/7
+  headline: "赵彦凯(24级)获“文化强国杯”全国高校文学知识挑战赛一等奖"
+
 - date: 2025/6
-  headline: "周启凡(24级)获蓝桥杯国赛二等奖，陈天一(23级)、董乐天(23级)、梁睎远(23级)获三等奖"
+  headline: "周启凡(24级)获蓝桥杯国赛二等奖，蒲京(22级)、陈天一(23级)、董乐天(23级)、梁睎远(23级)、张闰祺(24级)获三等奖"
 
 - date: 2025/6
   headline: "杜鑫研(24级)、毛周祥(24级)、靳赫涛(24级)获江苏省大学生程序设计比赛季军，刘一鸣(23级)、何辰玮(23级)、王俊迪(23级)获金奖，汪骏宇(22级)、陈乐扬(22级)、张一林(22级)、刘玮辰(23级)获银奖、肖智恒(22级)、朱佳航(22级)、蒲京(22级)获铜奖"
 
+- date: 2025/6
+  headline: "陈啸天(24级)、娄嘉程(24级)、魏子何(24级)、魏思远(24级)、张闰祺(24级)、衷诚兵(24级)、周婧怡(24级)获江苏省大学生数学竞赛一等奖，周子涵(24级)获三等奖"
+
 - date: 2025/5/14
   headline: "“拔尖领航系列活动暨导师交流计划”第二十一期 操作系统内核智能扩展:<a href='https://mp.weixin.qq.com/s/-ClJwtq5AmFZeR_SJZuyLg' target='_blank'>查看详情</a>"
 
-- date: 2025/5
-  headline: "陈啸天(24级)、娄嘉程(24级)获江苏省大学生数学竞赛一等奖"
+- date: 2025/5/12
+  headline: "广州大学计算机学院10名学生与4名老师一行赴拔尖基地进行访问交流"
 
 - date: 2025/5
   headline: "王朝乐(23级)获2025年中国大学生计算机设计大赛特等奖,沈柔希(23级)获三等奖"
+
+- date: 2025/5
+  headline: "李睿佳(24级)获2025年江苏省大学生计算机设计大赛三等奖"
 
 - date: 2025/4/23
   headline: "“拔尖领航系列活动暨导师交流计划”第二十期 图数据处理与前沿应用:<a href='https://mp.weixin.qq.com/s/pTxDuDSq21bcVJmGrvs-eQ' target='_blank'>查看详情</a>"
@@ -40,6 +64,9 @@
 - date: 2025/3/5
   headline: "“拔尖领航系列活动暨导师交流计划”第十八期 互联网的未来:<a href='https://mp.weixin.qq.com/s/KeFn_UQyV0FUP0YHN4Iqmw' target='_blank'>查看详情</a>"
 
+- date: 2025/5
+  headline: "陈怡佳(24级)获美国大学生数学建模比赛H奖"
+
 - date: 2025/2
   headline: "刘玮辰(23级)获ASC25世界大学生超级计算机竞赛二等奖"
 
@@ -48,6 +75,12 @@
 
 - date: 2025/1
   headline: "何辰玮(23级)、魏思远(24级)获美国大学生数学建模比赛H奖,林子尧(23级)、董乐天(23级)获S奖"
+
+- date: 2025
+  headline: "唐祥杰(22级)以第一作者身份在 Chinese Conference on Pattern Recognition and Computer Vision 发表论文 MIRaSeg: Exploring mmWave Radar and Low Resolution Infrared Sensor Fusion for Robust Human Semantic Segmentation"
+  
+- date: 2025
+  headline: "魏浩文(23级)以第一作者身份在 The International Conference on Behavioural and Social Computing 发表论文 ExamEaseVR: An Immersive Virtual Reality Exposure System for Alleviating Test Anxiety"
 
 - date: 2024/12/7
   headline: "09J241班开展 '计'思广益,相伴同行 活动:<a href='https://mp.weixin.qq.com/s/zZGev2eaYl21eEhVAsuWQA' target='_blank'>查看详情</a>"
@@ -63,6 +96,9 @@
 
 - date: 2024/12
   headline: "汪骏宇(22级)、陈乐扬(22级)、张一林(22级)获ICPC上海站银奖"
+
+- date: 2024/12
+  headline: "朱佳航(22级)、普浩杰(23级)、刘玮辰(23级)获国家奖学金，汪骏宇(22级)、隆乾(23级)获校长奖学金"
 
 - date: 2024/11/21
   headline: "“拔尖领航系列活动特别策划篇”第三期 运筹学遇上大模型的机会与挑战，华为的实践之路"
@@ -93,6 +129,9 @@
 
 - date: 2024/10/16
   headline: "“拔尖领航系列活动暨导师交流计划”第十五期 微型和纳型无人机集群协作:<a href='https://mp.weixin.qq.com/s/41iGUYuxLf82vEmpMzdt8g' target='_blank'>查看详情</a>"
+
+- date: 2024/10
+  headline: "唐祥杰(22级)获中国大学生电动方程式大赛三等奖"
 
 - date: 2024/10
   headline: "刘一鸣(23级)、何辰玮(23级)、王俊迪(23级)获CCPC哈尔滨站银奖"
