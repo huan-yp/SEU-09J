@@ -7,8 +7,6 @@ permalink: /admission
 slug: admission
 ---
 
-
-
 <style>
 /* new styles added below*/
 h2 {
@@ -35,9 +33,11 @@ img {
 
 ## 最新公告
 
-见<a href="https://jwc.seu.edu.cn/2025/0811/c23285a536272/page.htm"><span style="color:blue;">东南大学2025级本科新生二次选拔公告</span></a>。
+东南大学2026级本科新生二次选拔公告待发布，往年参考
+<a href="https://jwc.seu.edu.cn/2025/0811/c23285a536272/page.htm"><span style="color:blue;">东南大学2025级本科新生二次选拔公告</span></a>。
 
-下载<a href="https://jwc.seu.edu.cn/_upload/article/files/f0/2e/605219644457906fed3ba60c42d3/e61bd5d5-a455-4b4c-b381-c2d73282014b.docx"><span style="color:blue;">2025年“计算机科学拔尖”选拔方案与项目简介</span></a>。
+2026年“计算机科学拔尖”选拔方案与项目简介待发布，往年参考
+<a href="https://jwc.seu.edu.cn/_upload/article/files/f0/2e/605219644457906fed3ba60c42d3/e61bd5d5-a455-4b4c-b381-c2d73282014b.docx"><span style="color:blue;">2025年“计算机科学拔尖”选拔方案与项目简介</span></a>。
 
 
 ## 常见问题
@@ -119,8 +119,10 @@ img {
 
 更多问题，请加入QQ群交流咨询。
 
-群号: 1057069299
+群号: 1034156544
 
 
-![交流QQ群](https://chpu437.github.io/images/admission/qq_qun_id.jpg)
+<img src="https://chpu437.github.io/images/admission/qq_qun_id_2026.png"
+     alt="交流QQ群"
+     width="300">
 
